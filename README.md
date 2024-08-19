@@ -27,4 +27,8 @@ That being said, let's jump right into it:
   Marks is a very important figure in risk management, something he's been doing for almost 30 years as founder of Oaktree Capital Management. Risk is not talked about enough but it is the most important thing (maybe you where thinking the title is about a big portion of pasta - I would understand). Actually, let's hear what Buffet says about that:  
   _"Rule No 1: never lose money. Rule No 2: never forget rule No 1."_
 
-  The book is excellent even for rookies and besides risk, it stresses out the psychological aspect of investing and our reactions to market volatility. Maybe we are not made for investing as a species, after all.  
+  The book is excellent even for rookies and besides risk, it stresses out the psychological aspect of investing and our reactions to market volatility. Maybe we are not made for investing as a species, after all.
+
+- [Dividends Still Don't Lie](https://amzn.eu/d/36G0u6q) by Kelly Wright
+
+  This book is a "sequel", so to say. The original book is called "Dividends Still Don't Lie" (got it?) and it was written by Geraldine Weiss. This lady focused her investment thesis on the dividends a company pays out, instead of the much more popular earnings metrics. Indeed, the book is aimed at dividend investors. Her investment approach was unconventional but very well backed (talking about the correlation of a company's dividend yield to its' valuation), myself being a big fan of dividends. Kelly Wright considers Mrs. Weiss his mentor, and continues the basis of the first book (which was published in 1988), with a lot of new data, as the book was published in 2010.
